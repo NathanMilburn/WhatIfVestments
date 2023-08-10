@@ -5,8 +5,18 @@
     I WANT to see daily stock market data, trends, and candlestick data
     SO THAT I can make educated decisions and research without financial risk
 
+## TABLE OF CONTENTS
+- [Deployed Application](#deployed-application)
+- [Wireframe](#wireframe)
+- [Features](#features)
+- [Future Developments](#future-developments)
+- [Questions](#questions)
+
 ## DEPLOYED APPLICATION
     [Deployed Application URL will go here]
+
+## WIREFRAME
+![MainPage](./src/main/resources/static/images/MainPageWireFrame.PNG "Main Page Wireframe")
 
 ## FEATURES
     - Multiple headline stock market news reports on landing page
@@ -18,3 +28,5 @@
 
 ## FUTURE DEVELOPMENTS
     - Investment/Retirement calculator
+
+## QUESTIONS
